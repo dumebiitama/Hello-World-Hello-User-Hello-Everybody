@@ -1,4 +1,4 @@
-# Hello-World-Hello-User-Hello-Everybody
+# HelloWorldHelloUserHelloEverybody
 
 This is my first C# Console application. It is not for distribution and I am not accepting pull requests.
 
@@ -14,4 +14,4 @@ This is my first C# Console application. It is not for distribution and I am not
 
 ● Maintenance and new features to be handled by client’s nephew.
 
-https://trello.com/b/imcPN717/c-introduction-hello-world
+Trello: https://trello.com/b/imcPN717/c-introduction-hello-world
